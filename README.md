@@ -4,14 +4,14 @@ Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre m
 
 ## 🧠 Description du fonctionnement
 
-Le jeu repose sur un système de combat simple :
+Le jeu repose sur un système de combat simple:
 
 Chaque monstre possède:
 - ❤️ des points de vie (HP)
 - ⚔️ des attaques avec des dégâts variables
   
-Le combat se déroule en tour par tour
-À chaque tour :
+Le combat se déroule en tour par tour 
+.À chaque tour :
 - le joueur choisit une action (attaque, soin, etc.)
 - l’adversaire joue ensuite (aléatoire ou scripté)
 Le combat continue jusqu’à ce qu’un des deux monstres tombe à 0 HP
