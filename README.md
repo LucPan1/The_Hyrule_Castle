@@ -6,7 +6,7 @@ Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre m
 
 Le jeu repose sur un système de combat simple :
 
-Chaque monstre possède :
+Chaque monstre possède:
 ❤️ des points de vie (HP)
 ⚔️ des attaques avec des dégâts variables
 Le combat se déroule en tour par tour
@@ -17,7 +17,7 @@ Le combat continue jusqu’à ce qu’un des deux monstres tombe à 0 HP
 
 ## ⚙️ Implémentation en Bash
 
-Le jeu est entièrement développé en Bash et utilise :
+Le jeu est entièrement développé en Bash et utilise:
 
 des variables pour stocker la vie et les dégâts
 des conditions (if) pour gérer les actions
@@ -28,8 +28,8 @@ read pour les entrées utilisateur
 ## 🔁 Exemple de déroulement
 Le jeu démarre
 Le joueur choisit une attaque :
-Attaque rapide ⚡ (faibles dégâts)
-Attaque lourde 💥 (gros dégâts mais aléatoire)
+- Attaque rapide ⚡ (faibles dégâts)
+- Attaque lourde 💥 (gros dégâts mais aléatoire)
 L’adversaire attaque
 Les points de vie sont mis à jour
 Le jeu affiche l’état du combat
