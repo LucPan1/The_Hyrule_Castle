@@ -25,7 +25,7 @@ des boucles (while) pour le déroulement du combat
 des fonctions pour organiser le code
 read pour les entrées utilisateur
 
-# 🔁 Exemple de déroulement
+## 🔁 Exemple de déroulement
 Le jeu démarre
 Le joueur choisit une attaque :
 Attaque rapide ⚡ (faibles dégâts)
