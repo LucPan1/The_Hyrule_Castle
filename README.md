@@ -10,8 +10,8 @@ Chaque monstre possède:
 - ❤️ des points de vie (HP)
 - ⚔️ des attaques avec des dégâts variables
   
-Le combat se déroule en tour par tour 
-.À chaque tour :
+Le combat se déroule en tour par tour.
+À chaque tour :
 - le joueur choisit une action (attaque, soin, etc.)
 - l’adversaire joue ensuite (aléatoire ou scripté)
 Le combat continue jusqu’à ce qu’un des deux monstres tombe à 0 HP
