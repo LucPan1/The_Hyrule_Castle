@@ -9,6 +9,7 @@ Le jeu repose sur un système de combat simple :
 Chaque monstre possède:
 - ❤️ des points de vie (HP)
 - ⚔️ des attaques avec des dégâts variables
+  
 Le combat se déroule en tour par tour
 À chaque tour :
 - le joueur choisit une action (attaque, soin, etc.)
@@ -30,6 +31,7 @@ Le jeu démarre
 Le joueur choisit une option :
 - Attaque ⚡
 - Soin ❤️
+  
 L’adversaire attaque et les points de vie sont mis à jour.
 Le jeu affiche l’état du combat
 On recommence jusqu’à la victoire ou la défaite
