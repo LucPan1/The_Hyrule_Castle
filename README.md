@@ -7,12 +7,12 @@ Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre m
 Le jeu repose sur un système de combat simple :
 
 Chaque monstre possède:
-❤️ des points de vie (HP)
-⚔️ des attaques avec des dégâts variables
+- ❤️ des points de vie (HP)
+- ⚔️ des attaques avec des dégâts variables
 Le combat se déroule en tour par tour
 À chaque tour :
-le joueur choisit une action (attaque, soin, etc.)
-l’adversaire joue ensuite (aléatoire ou scripté)
+- le joueur choisit une action (attaque, soin, etc.)
+- l’adversaire joue ensuite (aléatoire ou scripté)
 Le combat continue jusqu’à ce qu’un des deux monstres tombe à 0 HP
 
 ## ⚙️ Implémentation en Bash
@@ -27,9 +27,9 @@ read pour les entrées utilisateur
 
 ## 🔁 Exemple de déroulement
 Le jeu démarre
-Le joueur choisit une attaque :
-- Attaque rapide ⚡ (faibles dégâts)
-- Attaque lourde 💥 (gros dégâts mais aléatoire)
-L’adversaire attaque Les points de vie sont mis à jour
+Le joueur choisit une option :
+- Attaque ⚡
+- Soin ❤️
+L’adversaire attaque et les points de vie sont mis à jour.
 Le jeu affiche l’état du combat
 On recommence jusqu’à la victoire ou la défaite
