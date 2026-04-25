@@ -20,18 +20,18 @@ Le combat continue jusqu’à ce qu’un des deux monstres tombe à 0 HP
 
 Le jeu est entièrement développé en Bash et utilise:
 
-des variables pour stocker la vie et les dégâts
-des conditions (if) pour gérer les actions
-des boucles (while) pour le déroulement du combat
-des fonctions pour organiser le code
+- des variables pour stocker la vie et les dégâts
+- des conditions (if) pour gérer les actions
+- des boucles (while) pour le déroulement du combat
+- des fonctions pour organiser le code
 read pour les entrées utilisateur
 
 ## 🔁 Exemple de déroulement
-Le jeu démarre
-Le joueur choisit une option :
+Le jeu démarre.
+Le joueur choisit une option:
 - Attaque ⚡
 - Soin ❤️
   
 L’adversaire attaque et les points de vie sont mis à jour.
-Le jeu affiche l’état du combat
+Le jeu affiche l’état du combat.
 On recommence jusqu’à la victoire ou la défaite
