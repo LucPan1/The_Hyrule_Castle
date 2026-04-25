@@ -30,7 +30,6 @@ Le jeu démarre
 Le joueur choisit une attaque :
 - Attaque rapide ⚡ (faibles dégâts)
 - Attaque lourde 💥 (gros dégâts mais aléatoire)
-L’adversaire attaque
-Les points de vie sont mis à jour
+L’adversaire attaque Les points de vie sont mis à jour
 Le jeu affiche l’état du combat
 On recommence jusqu’à la victoire ou la défaite
