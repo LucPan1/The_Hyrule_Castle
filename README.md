@@ -2,6 +2,10 @@
 
 Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre monstres avec gestion des points de vie, attaques et logique de jeu en ligne de commande.
 
+<br>
+
+<img src="asset/rpg_base_game.png" alt="rpg_base_game" width="800">
+
 ## 🧠 Description du fonctionnement
 
 Le jeu repose sur un système de combat simple:
