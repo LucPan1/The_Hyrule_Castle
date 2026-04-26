@@ -17,7 +17,7 @@ Chaque monstre possède:
 Le combat se déroule en tour par tour.
 À chaque tour :
 - le joueur choisit une action (attaque, soin, etc.)
-- l’adversaire joue ensuite (aléatoire ou scripté)
+- l’adversaire joue ensuite (scripté)
 Le combat continue jusqu’à ce qu’un des deux personnages tombe à 0 HP
 
 ## ⚙️ Implémentation en Bash
