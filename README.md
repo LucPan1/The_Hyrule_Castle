@@ -1,6 +1,6 @@
 # The Hyrule Castle
 
-Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre monstres avec gestion des points de vie, attaques et logique de jeu en ligne de commande.
+Jeu de combat tour par tour en Bash, mettant en scène des affrontements entre des personnages avec gestion des points de vie, attaques et logique de jeu en ligne de commande.
 
 <br>
 
